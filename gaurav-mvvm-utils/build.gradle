@@ -84,7 +84,7 @@ afterEvaluate{
 
                     groupId='com.github.GauravGupta17'
                     artifactId='mvvm-utlis'
-                    version ="1.0"
+                    version ="1.1.1"
 
                 }
 
